@@ -1,0 +1,23 @@
+{
+  "name": "unity",
+  "version": "0.1.0",
+  "description": "Returns informations about the version of Unity installed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kl0tl/unity.git"
+  },
+  "keywords": [
+    "unity",
+    "unity3d"
+  ],
+  "author": "Cyril Sobierajewicz <sobierajewicz.cyril@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kl0tl/unity/issues"
+  },
+  "homepage": "https://github.com/Kl0tl/unity"
+}
