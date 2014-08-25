@@ -1,4 +1,4 @@
 unity
 =====
 
-Informations about the version of Unity installed.
+Return informations about the version of Unity installed.
