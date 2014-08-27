@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/Kl0tl/unity/issues"
   },
-  "homepage": "https://github.com/Kl0tl/unity"
+  "homepage": "https://github.com/Kl0tl/unity",
+  "preferGlobal": true,
+  "bin": {
+    "unity-asset-store-directory": "bin/unity-asset-store-directory.js"
+  },
+  "dependencies": {
+    "cli-color": "^0.3.2",
+    "optimist": "^0.6.1"
+  }
 }
